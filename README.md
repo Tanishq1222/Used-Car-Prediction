@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo_original.png" alt="Used Car Price Prediction" width="420">
+  <img src="assets/logo.png" alt="Used Car Price Prediction" width="420">
 </p>
 
 <h3 align="center">Estimate what a used car is worth, and see how that value may change.</h3>
