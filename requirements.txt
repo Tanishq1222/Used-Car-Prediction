@@ -1,0 +1,12 @@
+# Versions come from the environment this project was built in.
+# scikit-learn must match the version used to train and save the model,
+# otherwise the saved .pkl may fail to load. Print sklearn.__version__ in
+# Notebook/model_training.ipynb and update the pin below if it differs.
+streamlit==1.62.0
+pandas==3.0.5
+numpy==2.4.6
+scikit-learn==1.6.1
+joblib==1.5.3
+plotly>=6.0
+matplotlib
+seaborn
