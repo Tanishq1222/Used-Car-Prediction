@@ -28,15 +28,15 @@ The project covers the full workflow: data cleaning, exploratory analysis, model
 ## Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard_estimate.png" alt="Estimate tab with price, likely range and market comparison" width="880">
+  <img src="screenshot/dashboard.png" alt="Estimate tab with price, likely range and market comparison" width="880">
 </p>
 
 <p align="center">
-  <img src="screenshots/dashboard_forecast.png" alt="Five-year value forecast and similar listings" width="880">
+  <img src="screenshot/forecast.png" alt="Five-year value forecast and similar listings" width="880">
 </p>
 
 <p align="center">
-  <img src="screenshots/dashboard_market.png" alt="Market explorer tab with charts by brand, age and transmission" width="880">
+  <img src="screenshot/market.png" alt="Market explorer tab with charts by brand, age and transmission" width="880">
 </p>
 
 **Features**
