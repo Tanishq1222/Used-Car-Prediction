@@ -11,6 +11,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://used-car-prediction-umscophsoko2abuwgjmqbc.streamlit.app/">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+  </a>
+</p>
 
 ## Overview
 
